@@ -1,0 +1,7 @@
+6
+1
+X 1 2
+Y 5 3
+X 5 1
+Y 3 3
+Y 3 3 Double move !

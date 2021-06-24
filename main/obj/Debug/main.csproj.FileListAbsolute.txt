@@ -1,0 +1,12 @@
+C:\Users\H\RiderProjects\backgammon\main\bin\Debug\main.exe
+C:\Users\H\RiderProjects\backgammon\main\bin\Debug\main.pdb
+C:\Users\H\RiderProjects\backgammon\main\obj\Debug\main.csprojAssemblyReference.cache
+C:\Users\H\RiderProjects\backgammon\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\H\RiderProjects\backgammon\main\obj\Debug\main.exe
+C:\Users\H\RiderProjects\backgammon\main\obj\Debug\main.pdb
+C:\Users\H\RiderProjects\backgammon2\main\bin\Debug\main.exe
+C:\Users\H\RiderProjects\backgammon2\main\bin\Debug\main.pdb
+C:\Users\H\RiderProjects\backgammon2\main\obj\Debug\main.csprojAssemblyReference.cache
+C:\Users\H\RiderProjects\backgammon2\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\H\RiderProjects\backgammon2\main\obj\Debug\main.exe
+C:\Users\H\RiderProjects\backgammon2\main\obj\Debug\main.pdb
